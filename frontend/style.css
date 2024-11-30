@@ -1,0 +1,28 @@
+.myBoard {
+  display: flex;
+}
+.block {
+  width: 70px;
+  height: 70px;
+  border: 1px solid rgb(95, 133, 154);
+  font-size: 70px;
+  text-align: center;
+  cursor: pointer;
+}
+.water {
+  background-color: rgb(151, 197, 235);
+}
+.ship {
+  background-color: silver;
+}
+.shot {
+  background-color: red;
+}
+.join {
+  width: 400px;
+  height: 150px;
+  font-size: 100px;
+  background-color: rgb(75, 255, 87);
+  color: rgb(4, 78, 4);
+  border-radius: 30px;
+}
